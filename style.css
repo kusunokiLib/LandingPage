@@ -1,0 +1,13 @@
+html{
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+section.about-kusunokiLib{
+  /*background-image: url('images/robert-metz-497439-unsplash.jpg');
+  background-attachment: fixed;
+  background-size: cover;*/
+}
+section.about-member{
+  background-image: url('images/nathan-dumlao-454452-unsplash.jpg');
+  background-attachment: fixed;
+  background-size: cover; 
+}
